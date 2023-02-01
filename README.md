@@ -5,14 +5,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=480&lines=Hey%2C+I+'am+Mclean+Classic+Kasambala.;Love+to+learn%2C+analyze%2C+and+apply.;Passionate+about+Software+Development.;Am+full-stack+Developer.;Feel+free+to+connect+with+me.;Nice+to+meet+you...!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=480&lines=Hey%2C+I+'am+Noel+Metro+Phiri.;Love+to+Eat%2C+Code%2C+and+Sleep.;Passionate+about+Software+Development.;Am+full-stack+Developer.;Feel+free+to+connect+&+Collaborate+with+me;...!">
 </p>
 
 **Languages, libraries and frameworks**
 
 ![CSharp](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=CSharp&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
-![Svelte-Kit](https://img.shields.io/badge/-Svelte-000000?style=flat&logo=Python)
+![Svelte-Kit](https://img.shields.io/badge/-Svelte-000000?style=flat&logo=Svelte)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
@@ -62,9 +62,6 @@
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Metro13)
 
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Metro13&bg_color=EFEFEF&color=006699&line=00599C&point=666666&hide_border=true" /></a>
-</p>
   
 ![Views](https://komarev.com/ghpvc/?username=Metro13) <a href="https://github.com/mcleanka/mcleanka/actions"><img src="https://github.com/colinodell/colinodell/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
 
