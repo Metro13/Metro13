@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=480&lines=Hey%2C+I+'am+Noel+Metro+Phiri.;Love+to+Eat%2C+Code%2C+and+Sleep.;Passionate+about+Software+Development.;I Am+Full-Stack+Developer.;Feel+free+to+connect+Collaborate+with+me;...!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=480&lines=Hey%2C+I+'am+Noel+Metro+Phiri.;Love+to+Eat%2C+Code%2C+and+Sleep.;">
 </p>
 
 **Languages, libraries and frameworks**
