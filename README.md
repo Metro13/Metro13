@@ -56,14 +56,6 @@
 
 
 
-**Personal Statistics**
-
-<img align="right" alt="Metro's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Metro13&count_private=0&show_icons=true&" />
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Metro13)
-
-  
-![Views](https://komarev.com/ghpvc/?username=Metro13) <a href="https://github.com/mcleanka/mcleanka/actions"><img src="https://github.com/colinodell/colinodell/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
 
 <!---
 Metro13/Metro13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
