@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=480&lines=Hey%2C+I+'am+Noel+Metro+Phiri.;Love+to+Eat%2C+Code%2Cand+Sleep.;">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=480&lines=Hey%2C+I+'am+Noel+Phiri.;Fullstack+Developer.;">
 </p>
 
 **Languages, libraries and frameworks**
