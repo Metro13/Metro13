@@ -1,12 +1,8 @@
 
 <h1>
-  Welcome to my Repo!!!
+  Hi, I'm Noel
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=480&lines=Hey%2C+I+'am+Noel+Phiri.;Fullstack+Developer.;">
-</p>
 
 **Languages, libraries and frameworks**
 
@@ -47,12 +43,6 @@
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-000000?style=flat&logo=AndroidStudio)
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-000000?style=flat&logo=VisualStudio)
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-000000?style=flat&logo=VisualStudioCode&logoColor=00599C)
-
-**Some of the technologies I have worked with**
-
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
-
 
 
 
